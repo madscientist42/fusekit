@@ -1,0 +1,2 @@
+libfusekit is still experimental and thus does not follow the versioning scheme (current:revision:age) yet.
+when it becomes stable, it will stick to it.
