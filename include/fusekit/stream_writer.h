@@ -17,8 +17,8 @@
  * License along with fusekit.  If not, see <http://www.gnu.org/licenses/>.
  */
 
-#ifndef __FUX__STREAM_WRITER_H
-#define __FUX__STREAM_WRITER_H
+#ifndef __FUSEKIT__STREAM_WRITER_H
+#define __FUSEKIT__STREAM_WRITER_H
 
 #include <error.h>
 #include <sstream>

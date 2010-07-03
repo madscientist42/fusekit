@@ -17,8 +17,8 @@
  * License along with fusekit.  If not, see <http://www.gnu.org/licenses/>.
  */
 
-#ifndef __FUX__DIRECTORY_FACTORY_H
-#define __FUX__DIRECTORY_FACTORY_H
+#ifndef __FUSEKIT__DIRECTORY_FACTORY_H
+#define __FUSEKIT__DIRECTORY_FACTORY_H
 
 #include <string>
 #include <tr1/unordered_map>

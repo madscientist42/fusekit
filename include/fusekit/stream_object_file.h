@@ -17,8 +17,8 @@
  * License along with fusekit.  If not, see <http://www.gnu.org/licenses/>.
  */
 
-#ifndef __FUX__STREAM_OBJECT_FILE_H
-#define __FUX__STREAM_OBJECT_FILE_H
+#ifndef __FUSEKIT__STREAM_OBJECT_FILE_H
+#define __FUSEKIT__STREAM_OBJECT_FILE_H
 
 #include <sstream>
 #include <fusekit/basic_file.h>

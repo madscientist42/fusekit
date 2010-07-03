@@ -17,8 +17,8 @@
  * License along with fusekit.  If not, see <http://www.gnu.org/licenses/>.
  */
 
-#ifndef __FUX__DIRECTORY_NODE_H
-#define __FUX__DIRECTORY_NODE_H
+#ifndef __FUSEKIT__DIRECTORY_NODE_H
+#define __FUSEKIT__DIRECTORY_NODE_H
 
 #include <time.h>
 #include <set>

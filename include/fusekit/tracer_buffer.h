@@ -17,8 +17,8 @@
  * License along with fusekit.  If not, see <http://www.gnu.org/licenses/>.
  */
 
-#ifndef __FUX__TRACER_BUFFER_H
-#define __FUX__TRACER_BUFFER_H
+#ifndef __FUSEKIT__TRACER_BUFFER_H
+#define __FUSEKIT__TRACER_BUFFER_H
 
 #include <iostream>
 #include <fusekit/entry.h>

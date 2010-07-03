@@ -17,8 +17,8 @@
  * License along with fusekit.  If not, see <http://www.gnu.org/licenses/>.
  */
 
-#ifndef __FUX__NO_LOCK_H
-#define __FUX__NO_LOCK_H
+#ifndef __FUSEKIT__NO_LOCK_H
+#define __FUSEKIT__NO_LOCK_H
 
 namespace fusekit{
   struct no_lock {

@@ -17,8 +17,8 @@
  * License along with fusekit.  If not, see <http://www.gnu.org/licenses/>.
  */
 
-#ifndef __FUX__BASIC_FILE_H
-#define __FUX__BASIC_FILE_H
+#ifndef __FUSEKIT__BASIC_FILE_H
+#define __FUSEKIT__BASIC_FILE_H
 
 #include <fusekit/basic_entry.h>
 #include <fusekit/file_node.h>
