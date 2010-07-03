@@ -17,8 +17,8 @@
  * License along with fusekit.  If not, see <http://www.gnu.org/licenses/>.
  */
 
-#ifndef __FUX__DEFAULT_TIME_H
-#define __FUX__DEFAULT_TIME_H
+#ifndef __FUSEKIT__DEFAULT_TIME_H
+#define __FUSEKIT__DEFAULT_TIME_H
 
 #include <time.h>
 #include <fusekit/time_fields.h>

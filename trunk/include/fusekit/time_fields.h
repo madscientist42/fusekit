@@ -17,8 +17,8 @@
  * License along with fusekit.  If not, see <http://www.gnu.org/licenses/>.
  */
 
-#ifndef __FUX__TIME_FIELDS_H
-#define __FUX__TIME_FIELDS_H
+#ifndef __FUSEKIT__TIME_FIELDS_H
+#define __FUSEKIT__TIME_FIELDS_H
 
 
 namespace fusekit{

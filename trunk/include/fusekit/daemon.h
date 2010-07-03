@@ -17,8 +17,8 @@
  * License along with fusekit.  If not, see <http://www.gnu.org/licenses/>.
  */
 
-#ifndef __FUX__DAEMON_H_
-#define __FUX__DAEMON_H_
+#ifndef __FUSEKIT__DAEMON_H_
+#define __FUSEKIT__DAEMON_H_
 
 #ifndef FUSE_USE_VERSION
 #pragma message "FUSE_USE_VERSION is not defined. setting FUSE_USE_VERSION=27"

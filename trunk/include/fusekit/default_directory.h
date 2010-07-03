@@ -17,8 +17,8 @@
  * License along with fusekit.  If not, see <http://www.gnu.org/licenses/>.
  */
 
-#ifndef __FUX__DEFAULT_DIRECTORY_H
-#define __FUX__DEFAULT_DIRECTORY_H
+#ifndef __FUSEKIT__DEFAULT_DIRECTORY_H
+#define __FUSEKIT__DEFAULT_DIRECTORY_H
 
 #include <fusekit/basic_directory.h>
 #include <fusekit/directory_node.h>

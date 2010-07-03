@@ -17,8 +17,8 @@
  * License along with fusekit.  If not, see <http://www.gnu.org/licenses/>.
  */
 
-#ifndef __FUX__GENERIC_BUFFER_H
-#define __FUX__GENERIC_BUFFER_H
+#ifndef __FUSEKIT__GENERIC_BUFFER_H
+#define __FUSEKIT__GENERIC_BUFFER_H
 
 #include <error.h>
 #include <fcntl.h>

@@ -17,8 +17,8 @@
  * License along with fusekit.  If not, see <http://www.gnu.org/licenses/>.
  */
 
-#ifndef __FUX__NEW_CREATOR_H
-#define __FUX__NEW_CREATOR_H
+#ifndef __FUSEKIT__NEW_CREATOR_H
+#define __FUSEKIT__NEW_CREATOR_H
 
 #include <fusekit/entry.h>
 

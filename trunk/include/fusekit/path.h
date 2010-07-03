@@ -17,8 +17,8 @@
  * License along with fusekit.  If not, see <http://www.gnu.org/licenses/>.
  */
 
-#ifndef __FUX__PATH_H_
-#define __FUX__PATH_H_
+#ifndef __FUSEKIT__PATH_H_
+#define __FUSEKIT__PATH_H_
 
 #include <list>
 #include <string>
