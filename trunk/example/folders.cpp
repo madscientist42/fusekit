@@ -22,9 +22,11 @@ int main( int argc, char* argv[] ){
   daemon.root().add_file("s", fusekit::make_iostream_object_file(s1));
 
   std::string s2("i am a child of /a");
-  daemon.root().add_directory( "a", fusekit::make_default_directory()).
-    add_file("s", fusekit::make_iostream_object_file(s2));
+  // you can hold references to directories (and files) you create
+  fusekit::default_directory<>::type& dir_a = daemon.root().add_directory( "a", fusekit::make_default_directory());
+  dir_a.add_file("s", fusekit::make_iostream_object_file(s2));
 
+  // or you can using chaining if  you do not need the variable later on
   std::string s3("i am a child of /b");
   daemon.root().add_directory( "b", fusekit::make_default_directory()).
     add_file("s", fusekit::make_iostream_object_file(s3));
