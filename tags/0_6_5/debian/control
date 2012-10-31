@@ -1,0 +1,16 @@
+Source: libfusekit
+Priority: extra
+Maintainer: Gerhard Lipp <gerhard_lipp@gmx.de>
+Build-Depends: debhelper (>= 7), autotools-dev, libfuse-dev
+Standards-Version: 3.8.1
+Section: libs
+Homepage: homeip.astade.net
+
+Package: libfusekit-dev
+Section: libdevel
+Architecture: any
+Depends: 
+Description: a c++ wrapper for fuse 
+
+
+
